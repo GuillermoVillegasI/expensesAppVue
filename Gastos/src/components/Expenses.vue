@@ -218,9 +218,10 @@
     margin: 0.2em;
     border-radius: 0.5em;
     background-color: black;
-    color: white;
+    color: rgb(217, 212, 212);
     border-style: solid;
     padding: 0.3em;
+    cursor: pointer;
   }
   
   .btn-trash {
